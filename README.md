@@ -37,6 +37,6 @@ R70.50 travels and dinner with childrens room.
 # Phone: 
 Smartphone
 
-Terms and Conditions:
+# Terms and Conditions:
 <a href = "https://edu.gcfglobal.org/en/"> Subscribe </a>
 
