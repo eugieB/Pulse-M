@@ -19,6 +19,7 @@ Valentine day website for the people to be with someone in the right time. As it
 ****
 # Price:
 R70.50 travels and dinner with childrens room. 
+
 ****
 # Sim Card: 
 * Vodacom
@@ -35,4 +36,7 @@ R70.50 travels and dinner with childrens room.
 
 # Phone: 
 Smartphone
+
+Terms and Conditions:
+<a href = "https://edu.gcfglobal.org/en/"> Subscribe </a>
 
