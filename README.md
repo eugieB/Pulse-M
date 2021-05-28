@@ -1,6 +1,7 @@
 # Fusion-V
 Introduction.
-Valentine day website for the people to be with someone in the right time. As it is a break and you need time to focus on other things besides the programing lanaguge. 
+Valentine day website for the people to be with someone in the right time. As it is a break and you need time to focus on other things besides the programing lanaguge. ![image](https://user-images.githubusercontent.com/75079699/119976674-bd40e800-bfb7-11eb-87c8-e05921613d20.png)
+
 ****
 
 # Features: 
